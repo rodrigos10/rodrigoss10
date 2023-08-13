@@ -1,4 +1,4 @@
-# Bem vindos
+# Bem vindo
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=s7Thiago&color=green"/>
